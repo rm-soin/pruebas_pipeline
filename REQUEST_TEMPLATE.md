@@ -15,7 +15,7 @@ Elementos que se deben considerar luego de instalar
 
 ## Requiere base de datos?
 - [x] SI
-- [x] NO
+- [ ] NO
 
 ### Nombre de los esquemas.
 Lista de esquemas involucrados.
